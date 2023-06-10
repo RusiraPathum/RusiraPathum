@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rusira Pathum</h1>
 <h3 align="center">Software Engineering | Backend Developer</h3>
 
+<h3 align="left">Summary:</h3>
+<p align="left">
+Results-driven software engineer with expertise in full-stack development. Passionate about problem-solving and delivering software solutions. Proficient in multiple programming languages and frameworks, with a deep understanding of best practices. Strong analytical skills, quick adaptability to new technologies. Collaborative team player with excellent communication skills, committed to delivering high-quality projects on time.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rusira-pathum-82ab311a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
